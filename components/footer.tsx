@@ -106,6 +106,26 @@ export function Footer() {
             </ul>
           </div>
 
+          {/* Government */}
+          <div>
+            
+            <ul className="space-y-2 text-sm">
+              <li>
+                
+              </li>
+              <li>
+                
+              </li>
+              <li>
+                
+              </li>
+              <li className="pt-2 border-t border-primary-foreground/20 mt-2">
+                <p className="text-primary-foreground/60 text-xs mb-1">Government Contact:</p>
+                <p className="text-accent font-medium">CEO - Bruno Cabral</p>
+              </li>
+            </ul>
+          </div>
+
           {/* Company */}
           <div>
             <h3 className="font-semibold text-accent mb-4">Company</h3>
