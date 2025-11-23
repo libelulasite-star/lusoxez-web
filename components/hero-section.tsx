@@ -1,5 +1,5 @@
 import { Button } from "@/components/ui/button"
-import { ArrowRight, Factory, Store, Building2, Users } from "lucide-react"
+import { ArrowRight, Factory, Store, Users } from "lucide-react"
 
 export function HeroSection() {
   return (
@@ -76,11 +76,6 @@ export function HeroSection() {
                 <Users className="h-10 w-10 text-accent mb-4" />
                 <h3 className="font-semibold text-lg mb-2">For Consumers</h3>
                 <p className="text-sm text-primary-foreground/80">Buy direct and save money</p>
-              </div>
-              <div className="bg-primary-foreground/10 backdrop-blur-sm border border-primary-foreground/20 rounded-lg p-6 hover:bg-primary-foreground/15 transition-colors">
-                <Building2 className="h-10 w-10 text-accent mb-4" />
-                <h3 className="font-semibold text-lg mb-2">For Government</h3>
-                <p className="text-sm text-primary-foreground/80">Streamlined procurement process</p>
               </div>
             </div>
           </div>
