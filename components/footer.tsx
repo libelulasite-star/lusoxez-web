@@ -120,16 +120,15 @@ export function Footer() {
                 
               </li>
               <li className="pt-2 border-t border-primary-foreground/20 mt-2">
-  <p className="text-primary-foreground/60 text-xs mb-1">
+  <p className="text-primary-foreground/60 text-xs mb-1">Luzox Contact:</p>
+  <p className="text-accent font-medium">
     <a 
       href="mailto:luzox.oficial@gmail.com" 
-      className="hover:underline hover:text-white transition-colors cursor-pointer"
-      title="Enviar correo a Luzox"
+      className="hover:underline transition-colors cursor-pointer"
     >
-      Luzox Contact:
+      CEO - Bruno Cabral
     </a>
   </p>
-  <p className="text-accent font-medium">CEO - Bruno Cabral</p>
 </li>
             </ul>
           </div>
