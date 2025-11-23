@@ -120,7 +120,7 @@ export function Footer() {
                 
               </li>
               <li className="pt-2 border-t border-primary-foreground/20 mt-2">
-                <p className="text-primary-foreground/60 text-xs mb-1">Government Contact:</p>
+                <p className="text-primary-foreground/60 text-xs mb-1">Luzox Contact:</p>
                 <p className="text-accent font-medium">CEO - Bruno Cabral</p>
               </li>
             </ul>
